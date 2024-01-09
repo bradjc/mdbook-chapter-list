@@ -9,6 +9,7 @@ keywords = ["mdbook", "markdown"]
 edition = "2021"
 
 readme = "README.md"
+license = "MIT"
 
 [badges]
 maintenance = { status = "passively-maintained" }
